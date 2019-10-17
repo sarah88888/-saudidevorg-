@@ -1,0 +1,41 @@
+الاستدعاء
+import module
+module.add(1 , 8)
+module.subtract(4 , 2)
+module.multiply(6 , 6)
+module.divide(8, 2)
+print(module.add(1,8))
+print(module.subtract(4, 2))
+print(module.multiply(6, 6))
+print(module.divide(8, 2))
+
+
+
+import datetime
+x = datetime.datetime(2020, 6, 9)
+print(x.strftime("%c"))
+
+الدالة الاساسية 
+def module ():
+
+
+    a = (1, 8, "+" )
+    b = (2, 4, "-")
+    c =  (6, 6, "*")
+    j = ( 2, 8, "/")
+def add(x, y):
+    return x + y
+
+def subtract (x , y):
+     return x - y
+
+def multiply(x, y):
+    return x * y
+
+def divide(x, y):
+    return x / y
+
+print(add)
+
+
+
